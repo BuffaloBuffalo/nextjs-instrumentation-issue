@@ -1,5 +1,7 @@
 ## Instrumentation Not Working
 
+Example of instrumentation code running, but exported values not being available in resulting modules.
+
 ```
 npm install
 npm run dev
